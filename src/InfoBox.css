@@ -1,0 +1,37 @@
+.infoBox {
+    flex: 1;
+  }
+  
+  .infoBox:not(:last-child) {
+    margin-right: 10px;
+  }
+  
+  .infoBox--selected {
+    border-top: 10px solid greenyellow;
+  }
+  
+  .infoBox--red {
+    border-color: #ec5757;
+  }
+  
+  .infoBox__cases--green {
+    color:#3cca5f !important;
+  }
+  
+  .infoBox__cases {
+    color: #ec5757;
+    font-weight: 600;
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .infoBox__total {
+    color: #7c848b;
+    font-weight: 700 !important;
+    font-size: 0.8rem !important;
+    margin-top: 15px !important;
+  }
+  
+  *{
+    font-family: 'Poppins', sans-serif;
+  }

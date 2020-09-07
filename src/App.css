@@ -1,0 +1,56 @@
+* {
+	margin: 0;
+}
+
+.app__header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.app__stats{
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+body{
+  background-color: #dfe6e9;
+}
+
+.app{
+  display: flex;
+  padding: 20px;
+  justify-content: space-evenly;
+
+}
+
+@media (max-width: 990px) {
+  .app{
+    flex-direction: column;
+    
+  }
+}
+
+.app__left{
+  flex : 0.9;
+  
+}
+
+a{
+  text-decoration: none;
+}
+
+*{
+  font-family: 'Poppins', sans-serif;
+}
+h4{
+  text-align: center;
+  top: -4px;
+}
+
+h1{
+  font-size: 70px;
+  color: #295f5d;
+}
