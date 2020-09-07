@@ -6,7 +6,7 @@
 ## ➡️ [See The Live Site](https://covid-19-tracker-d2982.web.app/) ⬅️
 ### When you open the site, the initial statistics shown is today's number of cases, patients recovered and the number of deaths.
 
-<br>
+---
 ## 🧱 Packages that I used, and are needed to be installed:
 
 * ### <code> npm i @material-ui/core </code>
