@@ -18,7 +18,9 @@
  
 ## How To Run:
 ### <code> npm i && npm start </code> - this will start the development server after installing the node modules
-<br>
+
+
+
 ![ss](https://user-images.githubusercontent.com/55017730/92410540-0d45f900-f162-11ea-9a87-ed61f5d6b74a.png)
 
 ### Hosted Using Firebase 💥
